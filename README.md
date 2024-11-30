@@ -1,6 +1,6 @@
-# NoteApp
+# appNote
 
-This project is a note map application built using Firebase Firestore. It enables users to create, edit, and delete notes, with real-time data synchronization through Firebase, providing efficient user experience.
+This project is a note application built using Firebase Firestore. It enables users to create, edit, and delete notes, with real-time data synchronization through Firebase, providing efficient user experience.
 
 ## Tech Stack
 
@@ -12,4 +12,4 @@ This project is a note map application built using Firebase Firestore. It enable
 - formik
 
 ![](appNote.gif)
-# appNote
+
